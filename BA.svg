@@ -2,8 +2,8 @@
   <title id="title">Werkia BA</title>
   <desc id="desc">Werkia Userscript Icon BA</desc>
   <defs>
-    <linearGradient id="background" x1="23" y1="12" x2="233" y2="244" gradientUnits="userSpaceOnUse"><stop stop-color="#1C5169"/><stop offset="1" stop-color="#22669A"/></linearGradient>
-    <linearGradient id="accent" x1="96" y1="88" x2="160" y2="38" gradientUnits="userSpaceOnUse"><stop stop-color="#77E8D2"/><stop offset="1" stop-color="#D9E241"/></linearGradient>
+    <linearGradient id="background" x1="23" y1="12" x2="233" y2="244" gradientUnits="userSpaceOnUse"><stop stop-color="#2A6B48"/><stop offset="1" stop-color="#41925E"/></linearGradient>
+    <linearGradient id="accent" x1="96" y1="88" x2="160" y2="38" gradientUnits="userSpaceOnUse"><stop stop-color="#BBF7D0"/><stop offset="1" stop-color="#ECFCCB"/></linearGradient>
   </defs>
   <rect width="256" height="256" rx="54" fill="url(#background)"/>
   <circle cx="218" cy="33" r="75" fill="#9AACFF" opacity=".16"/>
