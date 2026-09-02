@@ -6,7 +6,7 @@
     <linearGradient id="accent" x1="96" y1="88" x2="160" y2="38" gradientUnits="userSpaceOnUse"><stop stop-color="#BBF7D0"/><stop offset="1" stop-color="#ECFCCB"/></linearGradient>
   </defs>
   <rect width="256" height="256" rx="54" fill="url(#background)"/>
-  <circle cx="218" cy="33" r="75" fill="#9AACFF" opacity=".16"/>
+  <circle cx="218" cy="33" r="75" fill="#BBF7D0" opacity=".18"/>
   <circle cx="39" cy="230" r="82" fill="#05153D" opacity=".2"/>
   <path d="M33 111h190" stroke="#DDE5FF" stroke-opacity=".18" stroke-width="2"/>
   <path d="M96 43v39h64V43M128 36v30m0 0-15-15m15 15 15-15M111 92h34" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
