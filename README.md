@@ -8,7 +8,7 @@ Ein zentraler Satz lesbarer Icons für Tampermonkey-Loader. Alle Dateien sind SV
 // @iconURL      https://raw.githubusercontent.com/willywerkia/werkiaFavicons/main/KAM.svg
 ```
 
-Bei neuen Scripts bitte das passende Kürzel als Dateiname verwenden. Wenn ein Bereich noch fehlt, dient `werkia.svg` als neutrales Standard-Icon.
+Bei neuen Scripts bitte das passende Kürzel als Dateiname verwenden. Für einen Ausnahmefall ohne Fachbereich kann das reguläre Werkia-Favicon genutzt werden: `https://werkia.de/favicon.ico`.
 
 ## Fachbereiche und Toolboxes
 
@@ -18,7 +18,7 @@ Bei neuen Scripts bitte das passende Kürzel als Dateiname verwenden. Wenn ein B
 | KAM Toolbox | `KAM.svg` |
 | CEM Toolbox | `CEM.svg` |
 | OBC Toolbox | `OBC.svg` |
-| Sales Toolbox | `SALES.svg` |
+| Sales Toolbox | `CS.svg` |
 | OPS Übersicht | `OPS.svg` |
 
 ## OPS und Unterbereiche
@@ -45,5 +45,3 @@ Bei neuen Scripts bitte das passende Kürzel als Dateiname verwenden. Wenn ein B
 ## Bestehende Kürzel
 
 Diese Dateien ersetzen die alten, textlastigen Varianten, ohne die bestehenden Loader-URLs zu brechen: `VA.svg`, `BVA.svg` und `PU.svg`.
-
-`werkia.svg` ist das neutrale Fallback-Icon.

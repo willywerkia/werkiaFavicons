@@ -2,14 +2,14 @@
   <title id="title">Werkia OBC</title>
   <desc id="desc">Werkia Userscript Icon OBC</desc>
   <defs>
-    <linearGradient id="background" x1="23" y1="15" x2="233" y2="241" gradientUnits="userSpaceOnUse"><stop stop-color="#30206F"/><stop offset="1" stop-color="#2450A4"/></linearGradient>
-    <linearGradient id="accent" x1="82" y1="218" x2="178" y2="158" gradientUnits="userSpaceOnUse"><stop stop-color="#73E8D2"/><stop offset="1" stop-color="#D9E241"/></linearGradient>
+    <linearGradient id="background" x1="23" y1="12" x2="233" y2="244" gradientUnits="userSpaceOnUse"><stop stop-color="#35206F"/><stop offset="1" stop-color="#2856AD"/></linearGradient>
+    <linearGradient id="accent" x1="96" y1="88" x2="160" y2="38" gradientUnits="userSpaceOnUse"><stop stop-color="#77E8D2"/><stop offset="1" stop-color="#D9E241"/></linearGradient>
   </defs>
-  <rect width="256" height="256" rx="56" fill="url(#background)"/>
-  <circle cx="211" cy="47" r="74" fill="#8496FF" opacity=".18"/>
-  <path d="M-5 223c45-29 82-31 128-5 47 27 88 23 138-14v62H-5Z" fill="#020B35" opacity=".19"/>
-  <rect x="31" y="48" width="194" height="92" rx="31" fill="#07143C" fill-opacity=".68"/>
-  <rect x="43" y="60" width="8" height="68" rx="4" fill="url(#accent)"/>
-  <text x="137" y="116" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="800" letter-spacing="3" text-anchor="middle">OBC</text>
-  <path d="m79 192 26 25 72-72" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <rect width="256" height="256" rx="54" fill="url(#background)"/>
+  <circle cx="218" cy="33" r="75" fill="#9AACFF" opacity=".16"/>
+  <circle cx="39" cy="230" r="82" fill="#05153D" opacity=".2"/>
+  <path d="M33 111h190" stroke="#DDE5FF" stroke-opacity=".18" stroke-width="2"/>
+  <path d="m95 68 20 19 48-48" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round" stroke-width="11"/>
+  <text x="128" y="190" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="79" font-weight="800" letter-spacing="1" text-anchor="middle">OBC</text>
+  <rect x="86" y="214" width="84" height="8" rx="4" fill="url(#accent)"/>
 </svg>
