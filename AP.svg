@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
-  <title id="title">Werkia PU</title>
-  <desc id="desc">Werkia Userscript Icon PU</desc>
+  <title id="title">Werkia AP</title>
+  <desc id="desc">Werkia Userscript Icon AP</desc>
   <defs>
-    <linearGradient id="background" x1="23" y1="15" x2="233" y2="241" gradientUnits="userSpaceOnUse"><stop stop-color="#0B3E5D"/><stop offset="1" stop-color="#163C91"/></linearGradient>
+    <linearGradient id="background" x1="23" y1="15" x2="233" y2="241" gradientUnits="userSpaceOnUse"><stop stop-color="#263078"/><stop offset="1" stop-color="#115B93"/></linearGradient>
     <linearGradient id="accent" x1="82" y1="218" x2="178" y2="158" gradientUnits="userSpaceOnUse"><stop stop-color="#73E8D2"/><stop offset="1" stop-color="#D9E241"/></linearGradient>
   </defs>
   <rect width="256" height="256" rx="56" fill="url(#background)"/>
@@ -10,7 +10,6 @@
   <path d="M-5 223c45-29 82-31 128-5 47 27 88 23 138-14v62H-5Z" fill="#020B35" opacity=".19"/>
   <rect x="31" y="48" width="194" height="92" rx="31" fill="#07143C" fill-opacity=".68"/>
   <rect x="43" y="60" width="8" height="68" rx="4" fill="url(#accent)"/>
-  <text x="137" y="116" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="800" letter-spacing="3" text-anchor="middle">PU</text>
-  <path d="M94 177a42 42 0 0 1 68-5m0 0-1-18m1 18 18-1M162 207a42 42 0 0 1-68 5m0 0 1 18m-1-18-18 1" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+  <text x="137" y="116" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="800" letter-spacing="3" text-anchor="middle">AP</text>
+  <path d="M76 182h104v27H76zM105 182v-12h46v12M76 194h104" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
 </svg>
-

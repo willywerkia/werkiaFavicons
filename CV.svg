@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200"><rect width="200" height="200" fill="url('#gradient')"></rect><defs><linearGradient id="gradient" gradientTransform="rotate(45 0.5 0.5)"><stop offset="0%" stop-color="#cfecec"></stop><stop offset="100%" stop-color="#abc7db"></stop></linearGradient></defs><g><g fill="#2a4a46" transform="matrix(7.003039513677812,0,0,7.003039513677812,5.283502600294483,149.7958666937692)" stroke="#2a4a46" stroke-width="0.2"><path d="M9.17-4.81L12.58-4.81Q12.51-3.33 11.78-2.19Q11.04-1.05 9.72-0.43Q8.40 0.20 6.70 0.20L6.70 0.20Q3.90 0.20 2.29-1.63Q0.67-3.46 0.67-6.79L0.67-6.79L0.67-7.49Q0.67-9.58 1.40-11.15Q2.13-12.71 3.50-13.57Q4.86-14.42 6.66-14.42L6.66-14.42Q9.25-14.42 10.82-13.06Q12.39-11.70 12.61-9.31L12.61-9.31L9.19-9.31Q9.15-10.61 8.54-11.17Q7.92-11.74 6.66-11.74L6.66-11.74Q5.38-11.74 4.79-10.78Q4.19-9.82 4.16-7.72L4.16-7.72L4.16-6.72Q4.16-4.44 4.73-3.47Q5.30-2.49 6.70-2.49L6.70-2.49Q7.88-2.49 8.51-3.05Q9.13-3.60 9.17-4.81L9.17-4.81ZM16.89-14.22L19.72-3.87L22.55-14.22L26.38-14.22L21.59 0L17.84 0L13.10-14.22L16.89-14.22Z"></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Werkia CV</title>
+  <desc id="desc">Werkia Userscript Icon CV</desc>
+  <defs>
+    <linearGradient id="background" x1="23" y1="15" x2="233" y2="241" gradientUnits="userSpaceOnUse"><stop stop-color="#154168"/><stop offset="1" stop-color="#226584"/></linearGradient>
+    <linearGradient id="accent" x1="82" y1="218" x2="178" y2="158" gradientUnits="userSpaceOnUse"><stop stop-color="#73E8D2"/><stop offset="1" stop-color="#D9E241"/></linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="url(#background)"/>
+  <circle cx="211" cy="47" r="74" fill="#8496FF" opacity=".18"/>
+  <path d="M-5 223c45-29 82-31 128-5 47 27 88 23 138-14v62H-5Z" fill="#020B35" opacity=".19"/>
+  <rect x="31" y="48" width="194" height="92" rx="31" fill="#07143C" fill-opacity=".68"/>
+  <rect x="43" y="60" width="8" height="68" rx="4" fill="url(#accent)"/>
+  <text x="137" y="116" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="800" letter-spacing="3" text-anchor="middle">CV</text>
+  <path d="M91 166h54l25 25v37H91zM145 166v25h25M108 208h43M108 222h30" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+</svg>
+

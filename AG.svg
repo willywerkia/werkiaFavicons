@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200"><rect width="200" height="200" fill="url('#gradient')"></rect><defs><linearGradient id="gradient" gradientTransform="rotate(45 0.5 0.5)"><stop offset="0%" stop-color="#cfecec"></stop><stop offset="100%" stop-color="#abc7db"></stop></linearGradient></defs><g><g fill="#2a4a46" transform="matrix(6.880179171332586,0,0,6.880179171332586,10.21190445724153,148.92232970187538)" stroke="#2a4a46" stroke-width="0.2"><path d="M9.98 0L9.15-2.66L4.45-2.66L3.63 0L-0.03 0L5.19-14.22L8.41-14.22L13.66 0L9.98 0ZM6.80-10.23L5.27-5.30L8.33-5.30L6.80-10.23ZM26.13-7.60L26.13-1.76Q25.34-0.88 23.82-0.34Q22.29 0.20 20.48 0.20L20.48 0.20Q17.69 0.20 16.02-1.51Q14.35-3.22 14.23-6.27L14.23-6.27L14.22-7.50Q14.22-9.60 14.96-11.17Q15.70-12.73 17.08-13.58Q18.47-14.42 20.28-14.42L20.28-14.42Q22.94-14.42 24.41-13.21Q25.88-11.99 26.12-9.58L26.12-9.58L22.82-9.58Q22.65-10.77 22.06-11.28Q21.47-11.79 20.40-11.79L20.40-11.79Q19.11-11.79 18.41-10.69Q17.71-9.60 17.70-7.57L17.70-7.57L17.70-6.71Q17.70-4.58 18.42-3.51Q19.15-2.44 20.71-2.44L20.71-2.44Q22.05-2.44 22.71-3.04L22.71-3.04L22.71-5.24L20.32-5.24L20.32-7.60L26.13-7.60Z"></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Werkia AG</title>
+  <desc id="desc">Werkia Userscript Icon AG</desc>
+  <defs>
+    <linearGradient id="background" x1="23" y1="15" x2="233" y2="241" gradientUnits="userSpaceOnUse"><stop stop-color="#173E75"/><stop offset="1" stop-color="#145F8C"/></linearGradient>
+    <linearGradient id="accent" x1="82" y1="218" x2="178" y2="158" gradientUnits="userSpaceOnUse"><stop stop-color="#73E8D2"/><stop offset="1" stop-color="#D9E241"/></linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="url(#background)"/>
+  <circle cx="211" cy="47" r="74" fill="#8496FF" opacity=".18"/>
+  <path d="M-5 223c45-29 82-31 128-5 47 27 88 23 138-14v62H-5Z" fill="#020B35" opacity=".19"/>
+  <rect x="31" y="48" width="194" height="92" rx="31" fill="#07143C" fill-opacity=".68"/>
+  <rect x="43" y="60" width="8" height="68" rx="4" fill="url(#accent)"/>
+  <text x="137" y="116" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="800" letter-spacing="3" text-anchor="middle">AG</text>
+  <path d="M75 183h106v45H75zM108 183v-13h40v13M75 201h106M118 201h20v13h-20z" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+</svg>
+
+

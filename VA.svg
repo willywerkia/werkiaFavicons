@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200"><rect width="200" height="200" fill="url('#gradient')"></rect><defs><linearGradient id="gradient" gradientTransform="rotate(45 0.5 0.5)"><stop offset="0%" stop-color="#2fa98e"></stop><stop offset="100%" stop-color="#0c14e8"></stop></linearGradient></defs><g><g fill="#d9e241" transform="matrix(6.877611940298507,0,0,6.877611940298507,10.211135277196547,148.89919668026823)" stroke="#d9e241" stroke-width="0.2"><path d="M3.77-14.22L6.59-3.87L9.42-14.22L13.25-14.22L8.47 0L4.72 0L-0.03-14.22L3.77-14.22ZM22.46 0L21.63-2.66L16.93-2.66L16.11 0L12.45 0L17.67-14.22L20.89-14.22L26.14 0L22.46 0ZM19.28-10.23L17.75-5.30L20.81-5.30L19.28-10.23Z"></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Werkia VA</title>
+  <desc id="desc">Werkia Userscript Icon VA</desc>
+  <defs>
+    <linearGradient id="background" x1="23" y1="15" x2="233" y2="241" gradientUnits="userSpaceOnUse"><stop stop-color="#102B73"/><stop offset="1" stop-color="#3429A5"/></linearGradient>
+    <linearGradient id="accent" x1="82" y1="218" x2="178" y2="158" gradientUnits="userSpaceOnUse"><stop stop-color="#73E8D2"/><stop offset="1" stop-color="#D9E241"/></linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="url(#background)"/>
+  <circle cx="211" cy="47" r="74" fill="#8496FF" opacity=".18"/>
+  <path d="M-5 223c45-29 82-31 128-5 47 27 88 23 138-14v62H-5Z" fill="#020B35" opacity=".19"/>
+  <rect x="31" y="48" width="194" height="92" rx="31" fill="#07143C" fill-opacity=".68"/>
+  <rect x="43" y="60" width="8" height="68" rx="4" fill="url(#accent)"/>
+  <text x="137" y="116" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="800" letter-spacing="3" text-anchor="middle">VA</text>
+  <path d="M70 208h116M75 191l31-28 25 17 51-53M166 127h16v16" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+</svg>
