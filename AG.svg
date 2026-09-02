@@ -13,5 +13,3 @@
   <text x="137" y="116" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="800" letter-spacing="3" text-anchor="middle">AG</text>
   <path d="M75 183h106v45H75zM108 183v-13h40v13M75 201h106M118 201h20v13h-20z" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
 </svg>
-
-
