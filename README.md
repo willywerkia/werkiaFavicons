@@ -23,7 +23,7 @@ Stil: flache Fläche in der Bereichsfarbe, weißes Kürzel in Arial Bold, keine 
 
 Zu jedem SVG liegt ein PNG (512 × 512) mit gleichem Namen daneben, z. B. `KAM.png`. Die sind für Stellen, die kein SVG nehmen: Slack-Profilbilder (`icon_url`) und Custom-Emojis.
 
-Nur als PNG gibt es die Profilbilder der VT-Bots im Slack: `VTA.png` (VT Automatik), `VTV.png`, `VTS.png`. Quelle: `adminpanel/queries_bot/assets/` im OPS-Repo.
+Nur als PNG gibt es die Profilbilder der VT-Bots im Slack: `VTA.png`, `VTV.png`, `VTS.png`. Quelle: `adminpanel/queries_bot/assets/` im OPS-Repo.
 
 ## Fachbereiche und Toolboxes
 
