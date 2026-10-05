@@ -1,15 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title">
   <title id="title">Werkia PR</title>
-  <desc id="desc">Werkia Userscript Icon PR</desc>
-  <defs>
-    <linearGradient id="background" x1="23" y1="12" x2="233" y2="244" gradientUnits="userSpaceOnUse"><stop stop-color="#653F8C"/><stop offset="1" stop-color="#8B5CB5"/></linearGradient>
-    <linearGradient id="accent" x1="96" y1="88" x2="160" y2="38" gradientUnits="userSpaceOnUse"><stop stop-color="#E9D5FF"/><stop offset="1" stop-color="#FFD1F2"/></linearGradient>
-  </defs>
-  <rect width="256" height="256" rx="54" fill="url(#background)"/>
-  <circle cx="218" cy="33" r="75" fill="#E9D5FF" opacity=".18"/>
-  <circle cx="39" cy="230" r="82" fill="#05153D" opacity=".2"/>
-  <path d="M33 111h190" stroke="#DDE5FF" stroke-opacity=".18" stroke-width="2"/>
-  <path d="M91 65h59m0 0-16-16m16 16-16 16M165 51v28" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
-  <text x="128" y="190" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="108" font-weight="800" letter-spacing="2" text-anchor="middle">PR</text>
-  <rect x="86" y="214" width="84" height="8" rx="4" fill="url(#accent)"/>
+  <rect width="256" height="256" fill="#9333EA"/>
+  <text x="128" y="164" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="100" font-weight="700" text-anchor="middle">PR</text>
 </svg>
