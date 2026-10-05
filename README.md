@@ -8,7 +8,7 @@ Ein zentraler Satz lesbarer Icons für Tampermonkey-Loader. Alle Dateien sind SV
 // @iconURL      https://raw.githubusercontent.com/willywerkia/werkiaFavicons/main/KAM.svg
 ```
 
-Bei neuen Scripts bitte das passende Kürzel als Dateiname verwenden. Für Werkzeuge ohne Fachbereich gibt es das Werkia-Favicon als `werkia.svg`.
+Bei neuen Scripts bitte das passende Kürzel als Dateiname verwenden. Für Werkzeuge ohne Fachbereich gibt es das Werkia-Favicon als `werkia-favicon.svg`.
 
 Stil: flache Fläche in der Bereichsfarbe, weißes Kürzel in Arial Bold, keine Verläufe oder Symbole.
 
@@ -16,7 +16,7 @@ Stil: flache Fläche in der Bereichsfarbe, weißes Kürzel in Arial Bold, keine 
 
 | Einsatz | Datei |
 | --- | --- |
-| Werkia-Favicon (Schraubenschlüssel), Fallback ohne Fachbereich | `werkia.svg`, `werkia.png` |
+| Werkia-Favicon (Schraubenschlüssel), Fallback ohne Fachbereich | `werkia-favicon.svg`, `werkia-favicon.png` |
 | Werkia-Logo (Schriftzug auf Weiß) | `werkia-logo.svg`, `werkia-logo.png` |
 
 ## PNG für Slack
