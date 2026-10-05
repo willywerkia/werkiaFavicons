@@ -19,7 +19,11 @@ Stil: flache Fläche in der Bereichsfarbe, weißes Kürzel in Arial Bold, keine 
 | Werkia-Favicon (Schraubenschlüssel), Fallback ohne Fachbereich | `werkia.svg`, `werkia.png` |
 | Werkia-Logo (Schriftzug auf Weiß) | `werkia-logo.svg`, `werkia-logo.png` |
 
-Die PNGs (512 × 512) sind für Stellen, die kein SVG nehmen: Slack-Profilbilder (`icon_url`) und Custom-Emojis.
+## PNG für Slack
+
+Zu jedem SVG liegt ein PNG (512 × 512) mit gleichem Namen daneben, z. B. `KAM.png`. Die sind für Stellen, die kein SVG nehmen: Slack-Profilbilder (`icon_url`) und Custom-Emojis.
+
+Nur als PNG gibt es die Profilbilder der VT-Bots im Slack: `VTA.png` (VT Automatik), `VTV.png`, `VTS.png`. Quelle: `adminpanel/queries_bot/assets/` im OPS-Repo.
 
 ## Fachbereiche und Toolboxes
 
