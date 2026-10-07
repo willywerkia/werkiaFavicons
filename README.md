@@ -49,6 +49,8 @@ Nur als PNG gibt es die Profilbilder der VT-Bots im Slack: `VTA.png`, `VTV.png`,
 | Bulk-Vakanzen-Editor | `V.svg` |
 | Portal-Uploads und Portal-Agenten | `PRT.svg` |
 | Push Requests | `PR.svg` |
+| Invites (Push-Invites an Kandidaten, Slack-Report) | `INV.svg` |
+| VT gesamt (VT-Übersicht im Slack) | `VT.svg` |
 
 ## Sales und Service
 
