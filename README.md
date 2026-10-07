@@ -60,3 +60,9 @@ Nur als PNG gibt es die Profilbilder der VT-Bots im Slack: `VTA.png`, `VTV.png`,
 ## Bestehende Kürzel
 
 Diese Dateien ersetzen die alten, textlastigen Varianten, ohne die bestehenden Loader-URLs zu brechen: `VA.svg`, `BVA.svg` und `PU.svg`.
+
+## Slack-Emojis
+
+`slack-emojis/` enthält dieselben PNGs noch einmal, benannt wie die Emojis in Slack: Kürzel klein plus `_bot` (z. B. `om_bot.png` → `:om_bot:`), dazu `werkia_favicon.png` und `werkia_logo.png` ohne Suffix. Der Dateiname ist beim Upload direkt der Emoji-Name. Kurze Namen wie `:om:` oder `:v:` sind in Slack schon vergeben.
+
+Wird ein Icon geändert, die Kopie in `slack-emojis/` mit austauschen.
